@@ -1,4 +1,4 @@
-B#!/usr/bin/env bash
+#!/usr/bin/env bash
 # a Bash script that displays To infinity and beyond indefinitely
 while :
 do
